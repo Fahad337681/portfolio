@@ -96,7 +96,7 @@ const About = () => {
               </h3>
               
               <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-                I'm a passionate full-stack developer with a keen eye for design and a love for 
+                I&apos;m a passionate full-stack developer with a keen eye for design and a love for 
                 creating seamless user experiences. With expertise in modern web technologies, 
                 I bring ideas to life through clean, efficient code.
               </p>
@@ -104,7 +104,7 @@ const About = () => {
               <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
                 My journey in web development has equipped me with a diverse skill set, 
                 from crafting pixel-perfect frontends to building robust backend systems. 
-                I'm constantly learning and adapting to new technologies to deliver 
+                I&apos;m constantly learning and adapting to new technologies to deliver 
                 cutting-edge solutions.
               </p>
 
